@@ -6,7 +6,7 @@
 - Take a brief tour of what a GitHub repository looks like.
 - Comment on an issue.
   - See what an issue is like, disuss what issues are used for.
-  - Behind the scenes, we use this comment to add you as a collaborator.
+  - Behind the scenes, we use this comment to add you as a collaborator. tesyt
   - We also create a document for you to work on later.
 - Clone the repository locally, and [get the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
 - Together, practice GitHub flow to change your page of the slide deck and add a caption.
